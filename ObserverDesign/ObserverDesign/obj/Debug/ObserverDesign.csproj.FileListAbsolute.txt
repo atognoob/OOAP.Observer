@@ -1,0 +1,10 @@
+\\Mac\Home\Documents\семестр 6\ООАП\OOAP.Observer\ObserverDesign\ObserverDesign\obj\Debug\ObserverDesign.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\семестр 6\ООАП\OOAP.Observer\ObserverDesign\ObserverDesign\obj\Debug\ObserverDesign.Properties.Resources.resources
+\\Mac\Home\Documents\семестр 6\ООАП\OOAP.Observer\ObserverDesign\ObserverDesign\obj\Debug\ObserverDesign.csproj.GenerateResource.cache
+\\Mac\Home\Documents\семестр 6\ООАП\OOAP.Observer\ObserverDesign\ObserverDesign\obj\Debug\ObserverDesign.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\семестр 6\ООАП\OOAP.Observer\ObserverDesign\ObserverDesign\bin\Debug\ObserverDesign.exe.config
+\\Mac\Home\Documents\семестр 6\ООАП\OOAP.Observer\ObserverDesign\ObserverDesign\bin\Debug\ObserverDesign.exe
+\\Mac\Home\Documents\семестр 6\ООАП\OOAP.Observer\ObserverDesign\ObserverDesign\bin\Debug\ObserverDesign.pdb
+\\Mac\Home\Documents\семестр 6\ООАП\OOAP.Observer\ObserverDesign\ObserverDesign\obj\Debug\ObserverDesign.exe
+\\Mac\Home\Documents\семестр 6\ООАП\OOAP.Observer\ObserverDesign\ObserverDesign\obj\Debug\ObserverDesign.pdb
+\\Mac\Home\Documents\семестр 6\ООАП\OOAP.Observer\ObserverDesign\ObserverDesign\obj\Debug\ObserverDesign.Form1.resources

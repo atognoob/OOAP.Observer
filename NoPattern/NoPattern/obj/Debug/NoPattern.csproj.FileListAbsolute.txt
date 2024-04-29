@@ -1,0 +1,10 @@
+\\Mac\Home\Documents\семестр 6\ООАП\OOAP.Observer\NoPattern\NoPattern\bin\Debug\NoPattern.exe.config
+\\Mac\Home\Documents\семестр 6\ООАП\OOAP.Observer\NoPattern\NoPattern\bin\Debug\NoPattern.exe
+\\Mac\Home\Documents\семестр 6\ООАП\OOAP.Observer\NoPattern\NoPattern\bin\Debug\NoPattern.pdb
+\\Mac\Home\Documents\семестр 6\ООАП\OOAP.Observer\NoPattern\NoPattern\obj\Debug\NoPattern.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\семестр 6\ООАП\OOAP.Observer\NoPattern\NoPattern\obj\Debug\NoPattern.Properties.Resources.resources
+\\Mac\Home\Documents\семестр 6\ООАП\OOAP.Observer\NoPattern\NoPattern\obj\Debug\NoPattern.csproj.GenerateResource.cache
+\\Mac\Home\Documents\семестр 6\ООАП\OOAP.Observer\NoPattern\NoPattern\obj\Debug\NoPattern.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\семестр 6\ООАП\OOAP.Observer\NoPattern\NoPattern\obj\Debug\NoPattern.exe
+\\Mac\Home\Documents\семестр 6\ООАП\OOAP.Observer\NoPattern\NoPattern\obj\Debug\NoPattern.pdb
+\\Mac\Home\Documents\семестр 6\ООАП\OOAP.Observer\NoPattern\NoPattern\obj\Debug\NoPattern.Form1.resources
